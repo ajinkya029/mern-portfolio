@@ -120,7 +120,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ajinkya029/Personal-Portfolio.git
+git clone https://github.com/ajinkya029/mern-portfolio.git
 ```
 
 ```bash
